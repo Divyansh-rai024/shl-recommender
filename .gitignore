@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.venv/
+data/*.pkl
+data/faiss_index.pkl
+data/shl_catalog.json
